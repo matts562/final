@@ -807,9 +807,33 @@ p {
 	z-index: -5;
 }
 
-
-
 #red3 {
+	height: 400px;
+	width: 2000px;
+	position: absolute;
+	top: 3605px;
+	background-color: red;
+	opacity: .2;
+	z-index: -5;
+}
+
+#pink4 {
+	height: 325px;
+	width: 2000px;
+	position: absolute;
+	top: 4140px;
+	background-color: pink;
+	opacity: .2;
+	z-index: -5;
+}
+
+
+
+
+
+
+
+#red4 {
 	height: 200px;
 	width: 2000px;
 	position: absolute;
